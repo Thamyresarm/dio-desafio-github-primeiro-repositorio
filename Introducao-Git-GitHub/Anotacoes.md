@@ -17,3 +17,6 @@
 
 ### Git Push 
 	para enviar as alterações realizadas no PC remoto para o github
+	
+### Git Pull (origin)
+	para atualizar o repositório do PC remoto de acordo com as alterações realizadas no github
