@@ -2,6 +2,7 @@
 
 ## Para configurar a chave SSH
 [Link com a explicacao](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
 inserir em settings / SSH no github
 
 ### Git Clone
@@ -13,7 +14,7 @@ para enviar conectar o repositório do PC remoto ao github (primeiro criar o rep
 ### Git Status
 para saber o status dos arquivos 
 
-### Git Add.
+### Git Add .
 para o git identificar os arquivos alterados
 
 ### Git Commit -m "Mensagem entre parenteses"
