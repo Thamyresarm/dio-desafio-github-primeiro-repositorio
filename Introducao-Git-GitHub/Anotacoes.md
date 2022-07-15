@@ -1,9 +1,11 @@
-# Relembrando os comandos do git
+# Comando do Git realizados no GitBash
 
 ## Para configurar a chave SSH
 [Link com a explicacao](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 inserir em settings / SSH no github
+
+## Relembrando os comandos do git
 
 ### Git Clone
 para clonar um repositorio do github para o PC remoto
@@ -14,11 +16,14 @@ para enviar conectar o repositório do PC remoto ao github (primeiro criar o rep
 ### Git Status
 para saber o status dos arquivos 
 
+### Git Init
+para começar o versionamento com o git no local desejado.
+
 ### Git Add .
 para o git identificar os arquivos alterados
 
 ### Git Commit -m "Mensagem entre parenteses"
-para salvar a versão atual do arquivo
+para salvar a versão atual dos arquivos
 
 ### Git Push (origin)
 para enviar as alterações realizadas no PC remoto para o github
