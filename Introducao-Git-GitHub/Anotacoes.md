@@ -25,8 +25,8 @@ para o git identificar os arquivos alterados
 ### Git Commit -m "Mensagem entre aspas"
 para salvar a versão atual dos arquivos
 
-### Git Push -u (origin) main
+### Git Push -u (origin) (main)
 para enviar as alterações realizadas no PC remoto para o github
 	
-### Git Pull (origin)
+### Git Pull (origin) (main)
 para atualizar o repositório do PC remoto de acordo com as alterações realizadas no github
