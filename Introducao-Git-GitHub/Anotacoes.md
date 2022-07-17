@@ -10,7 +10,7 @@ inserir em settings / SSH no github
 ### Git Clone
 para clonar um repositorio do github para o PC remoto
 
-### Git Remote Add (origin + link do repositório github)
+### Git Remote add (origin + link do repositório github)
 para enviar conectar o repositório do PC remoto ao github (primeiro criar o repósitorio no github)
 
 ### Git Status
@@ -22,10 +22,10 @@ para começar o versionamento com o git no local desejado.
 ### Git Add .
 para o git identificar os arquivos alterados
 
-### Git Commit -m "Mensagem entre parenteses"
+### Git Commit -m "Mensagem entre aspas"
 para salvar a versão atual dos arquivos
 
-### Git Push (origin)
+### Git Push -u (origin) main
 para enviar as alterações realizadas no PC remoto para o github
 	
 ### Git Pull (origin)
